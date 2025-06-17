@@ -1,0 +1,4 @@
+- vi điều khiển: CH32V003F4P6 chân dán sop20
+- 1 mạch nguồn vào 12V, hạ áp 7805, điều khiển 4 relay 12V
+- 4 nút nhấn
+- có chân i2c, giao tiếp vs epprom at24c02, RTC ds1307
